@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 /**
  * _printf - a function that receives the main string
@@ -34,3 +35,6 @@ int _printf(const char *format, ...)
 	va_end(argl);
 	return (print_char);
 }
+=======
+
+>>>>>>> 1411dfbb0961fda75b018175bebf5041810e87fe
